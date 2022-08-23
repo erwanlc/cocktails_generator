@@ -1,0 +1,48 @@
+{
+  "builder_name": "csv",
+  "citation": "",
+  "config_name": "default",
+  "dataset_size": 2576584,
+  "description": "",
+  "download_checksums": {
+    "C:\\Users\\lecover\\OneDrive - Konecranes Plc\\Documents\\Project\\Veille\\cocktails_all_new.csv": {
+      "num_bytes": 2497796,
+      "checksum": "240539f222d287e263d450ebba06987b2df896cd05c2e6ac091d8884bcfcaf01"
+    }
+  },
+  "download_size": 2497796,
+  "features": {
+    "inputs": {
+      "dtype": "string",
+      "id": null,
+      "_type": "Value"
+    },
+    "targets": {
+      "dtype": "string",
+      "id": null,
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "post_processed": null,
+  "post_processing_size": null,
+  "size_in_bytes": 5074380,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 2576584,
+      "num_examples": 6956,
+      "dataset_name": "csv"
+    }
+  },
+  "supervised_keys": null,
+  "task_templates": null,
+  "version": {
+    "version_str": "0.0.0",
+    "description": null,
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
